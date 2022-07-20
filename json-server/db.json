@@ -202,14 +202,7 @@
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
     },
-    {
-      "dishId": 1,
-      "rating": "2",
-      "author": "sdfsdfs",
-      "comment": "sdfs",
-      "date": "2020-06-29T11:29:30.384Z",
-      "id": 20
-    },
+  
     {
       "dishId": 3,
       "rating": "2",
@@ -217,14 +210,6 @@
       "comment": "This is Comment\n",
       "date": "2020-06-29T11:30:48.770Z",
       "id": 21
-    },
-    {
-      "dishId": 3,
-      "rating": "3",
-      "author": "Bepul2",
-      "comment": "db.json test",
-      "date": "2020-07-01T03:02:46.459Z",
-      "id": 22
     }
   ],
   "promotions": [
